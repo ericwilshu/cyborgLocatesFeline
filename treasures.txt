@@ -1,0 +1,155 @@
+# This is the list of strings that will be read by rfk.py.
+# One will be applied randomly to each treasure placed on the grid.
+# They can be more than one line, but put a newline between them, 
+# so the computer can tell where one ends and the next begins.
+
+Pills here!
+
+It's a Zombine hand grenade.
+You throw it back.
+
+It's a box with another box inside.
+Inside that is... a dirty sock.
+
+It's a 486, just trying to keep up.
+
+This is a love letter written
+in binary, from your ex.
+
+Here's a mutant superhero whose
+power is that everytime she farts, 
+a rainbow appears.
+
+There is a Dewar flask full of antimatter here.
+
+A long book about a little person
+disposing of a piece of jewelry.
+
+A polititian is campaigning.
+You can hear the Winds of Limbo.
+
+You find a Chuck Palahniuk novel.
+It feels like a punch in the kidney.
+
+Some animal rights activists protesting
+the eating of chocolate Easter bunnies.
+
+Legalized marijuana!
+Too bad cyborgs can't get high.
+
+A Russian nesting doll
+that LOOKS like a feline,
+but it isn't.
+
+Up, up, down, down,
+left, right, left, right,
+B, A, start.
+Now you have 30 lives!
+
+The phantom of a long dead robot speaks to you,
+but you can't hear the words.
+
+You see a phantom menace.
+Not great, but not as bad
+as some Star Wars fans say.
+
+A collection of obscure mini-comics from the 90s.
+So THAT'S where I left them...
+
+A mysterious syringe. The label says,
+'If found, please return to your local catmaster.'
+
+A cyborg with cool hair, shades,
+and black trench coat bitches,
+'I didn't ask for this!'
+
+You've just activated god-mode.
+Now you will never die in this game.
+
+It is the yurt of the orc czar. 
+It is adorned with the scalps of his enemies.
+
+'Come on, Mr. Bubbles!' shouts a creepy 
+little girl to a man in a huge diving suit.
+
+A big power pellet!
+Let's go eat some ghosts!
+
+Here you see flashy bullcrap to entertain dopes.
+Must be the new Marvel movie.
+
+The KidsInTheHall programming language.
+Honsestly, who names a language after a
+sketch comedy show?
+
+Here are some web designers.
+Someone gave them a ball to play with.
+
+A guy posts, 'I am mad that they remade it at all,
+not that they remade it with women!'
+
+It is a website running too many javascripts.
+Better than Flash swfs. Maybe.
+
+'Learn brainf*ck the Hard Way'
+by Zed Shaw.
+
+Internet pornography.
+I didn't know they had that on the internet!
+
+Holy Crap! It is the actual, real-life
+confirmation of Half Life 3!
+
+The Illuminatus! Trilogy 
+by Robert Anton Wilson.
+Have you heard what the guy
+does to the big golden apple?
+
+A VHS tape of Jennifer Aniston and
+Matthew Perry explaining Windows 95.
+
+It's your horoscope.
+'Today is a good day to watch
+out for runaway steamrollers.'
+
+It's Newton's First Law.
+You just keep moving.
+
+It's Newton's Third Law.
+It seems excited about something.
+You react with a bored sigh.
+
+It's famous actor Morgan Freeman,
+with a wrecking bar and a bright
+orange hazard suit.
+
+Here lies Wulf the Destroyer, killed 
+by and emu on level 1 with 23 gold.
+
+There is a broken Voight-Kampf machine here.
+
+You encounter a group of hipsters.
+How ironic.
+
+Hannibal Lechter's extra finger.
+You'd think he'd have eaten it.
+
+Chuck Schuldiner's kitten t-shirt.
+It reminds you of how much you miss feline.
+
+It's a bird! It's a plane! It's...
+Oh wait, you were right the first time.
+It's a bird.
+
+It's lobbyists lobbying for 
+bigger lobbies for lobsters.
+
+Neat! It's the international date line.
+You've always wanted to date a foreigner.
+
+It's a PC gamer and a Mac user,
+overcoming their differences and
+working toward a common goal.
+
+It's a runaway steamroller!
+Watch out!
